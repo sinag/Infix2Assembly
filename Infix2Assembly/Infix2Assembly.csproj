@@ -57,6 +57,11 @@
     <None Include="Documents\swe514fall2018proj.pdf" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Documents\line1.asm" />
+    <Content Include="Documents\line2.asm" />
+    <Content Include="Documents\line3.asm" />
+    <Content Include="Documents\line4.asm" />
+    <Content Include="Documents\line5.asm" />
     <Content Include="Documents\sample.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
