@@ -46,8 +46,12 @@ Sample
    
    >Input File: sample.txt
    
-   >File Written: line1.asm
+   >File Written: [line1.asm](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/line1.asm)
    
-   >File Written: line2.asm
+   >File Written: [line2.asm](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/line2.asm)
    
-   >File Written: line3.asm
+   >File Written: [line3.asm](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/line3.asm)
+      
+   >File Written: [line4.asm](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/line4.asm)
+   
+   >File Written: [line5.asm](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/line5.asm)
