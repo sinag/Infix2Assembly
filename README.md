@@ -1,6 +1,6 @@
 About
 =
-This is a sample a86 compatible assembly code generator I have written for SWE 514 class @ Bogazici University.
+This is a sample a86 compatible assembly code generator written for SWE 514 class @ Bogazici University.
 
 This console program reads every line from input filename, treats every line as infix expressions, and generates a86 compatible assembly source files which will evaluate the expression and output result in hex to stdout.
 
