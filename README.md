@@ -4,7 +4,7 @@ This is a sample a86 compatible assembly code generator I have written for SWE 5
 
 This console program reads every line from input filename, treats every line as infix expressions, and generates a86 compatible assembly source files which will evaluate the expression and output result in hex to stdout.
 
-[Assingment details]()
+[Assingment details](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/swe514fall2018proj.pdf)
 
 [Project documentation]()
 
