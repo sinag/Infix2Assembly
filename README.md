@@ -44,7 +44,7 @@ Sample
    
    Output :
    
-   >Input File: sample.txt
+   >Input File: [sample.txt](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/sample.txt)
    
    >File Written: [line1.asm](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/line1.asm)
    
