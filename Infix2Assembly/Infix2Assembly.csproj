@@ -54,6 +54,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Documents\SWE 514 Computer Systems Project.docx" />
+    <None Include="Documents\SWE 514 Computer Systems Project.pdf" />
     <None Include="Documents\swe514fall2018proj.pdf" />
   </ItemGroup>
   <ItemGroup>
