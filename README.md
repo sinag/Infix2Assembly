@@ -6,7 +6,7 @@ This console program reads lines from input filename, treats every line as separ
 
 [Assignment details](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/swe514fall2018proj.pdf)
 
-[Project documentation]()
+[Project documentation](https://github.com/sinag/Infix2Assembly/blob/master/Infix2Assembly/Documents/SWE%20514%20Computer%20Systems%20Project.pdf)
 
 Compile (Windows)
 =
