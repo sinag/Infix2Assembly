@@ -10,6 +10,14 @@ add ax,bx ; result in ax
 push ax
 push 03h
 
+; multiplication
+pop ax
+pop bx
+mul bx ; result in ax
+xor dx,dx ; clear dx, assume 16 bit result
+push ax
+push 04h
+
 ; addition
 pop ax
 pop bx
